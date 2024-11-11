@@ -57,8 +57,6 @@ Once the environment is set up and the dependencies are installed, you can run t
 
 ### Saving and Running the Code.
 
-### Step 1: Save the Code in Colab
-
 1. Open **Colab** on your system.
 2. Copy the following code and paste it:
 
