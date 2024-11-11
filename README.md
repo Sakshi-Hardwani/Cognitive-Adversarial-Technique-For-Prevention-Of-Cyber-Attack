@@ -42,9 +42,10 @@ Before setting up the project, make sure you have the following dependencies ins
 
 To set up environment in **local sysytem** install all the dependencies in your system and also give path if required.
 
-To set up the environment for **Google Colab** and install the necessary dependencies, follow these steps:
+To set up the environment for **Google Colab** Create an account and install/import the necessary dependencies.
 
- **Clone the Repository**:
+ **Check the Repository** to understand the necessary python packages and libraries reqired for training and testing
+ 
 ```
   https://github.com/Sakshi-Hardwani/Cognitive-Adversarial-Technique-For-Prevention-Of-Cyber-Attack
 ```
